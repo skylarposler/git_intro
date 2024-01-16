@@ -1,2 +1,1 @@
-"Skylar Posler"
-20 
+"Skylar Posler" 
