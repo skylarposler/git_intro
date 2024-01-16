@@ -1,1 +1,2 @@
-"Skylar Posler" 
+"Skylar Posler"
+poslert@oregonstate.edu 
